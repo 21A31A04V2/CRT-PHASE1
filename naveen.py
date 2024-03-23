@@ -1,0 +1,15 @@
+a=16
+b=7.8
+c="5"
+d=False
+e=8+4j
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
